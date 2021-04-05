@@ -69,3 +69,7 @@ A numeric identifier of the sound class:
 * class:
 The class name: air_conditioner, car_horn, children_playing, dog_bark, drilling, engine_idling, gun_shot, jackhammer, 
 siren, street_music.
+
+
+# LINK FOR THE COLAB FILE
+https://colab.research.google.com/drive/1Nkfg0QTJgyPNzQMq2-ZvRdzkI0RhnFU0?usp=sharing
