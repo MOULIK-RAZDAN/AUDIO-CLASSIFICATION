@@ -1,6 +1,6 @@
 # AUDIO-CLASSIFICATION
 
-##Description
+Description
 -----------
 
 This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes: air_conditioner, car_horn, 
@@ -17,15 +17,14 @@ reported in the article above.
 
 In addition to the sound excerpts, a CSV file containing metadata about each excerpt is also provided.
 
-
-##Audio Files Included
+Audio Files Included
 --------------------
 
 8732 audio files of urban sounds (see description above) in WAV format. The sampling rate, bit depth, and number of 
 channels are the same as those of the original file uploaded to Freesound (and hence may vary from file to file).
 
 
-##Meta-data Files Included
+Meta-data Files Included
 ------------------------
 
 UrbanSound8k.csv
